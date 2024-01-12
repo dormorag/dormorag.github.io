@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -65,11 +65,11 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  links: # An array of links to social media profiles
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/dormorag/"
+#social:
+  #links: # An array of links to social media profiles
+    #- label: "LinkedIn"
+    #  icon: "fab fa-linkedin"
+    #  url: "https://www.linkedin.com/in/dormorag/"
 
 
 # Analytics
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dor Morag"
   avatar           : "Dor Morag ABC_9114_2.jpg"
-  bio              : "- PhD Candidate in Economics, University of Pittsburgh<br>- Data Science Fellow BBO, Pittsburgh Pirates<br>- NBA Future Analytics Stars"
+  bio              : "PhD Candidate in Economics, University of Pittsburgh<br><br>Data Science Fellow BBO, Pittsburgh Pirates<br><br>NBA Future Analytics Stars"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "dormorag"
+  LinkedIn         : # "dormorag"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

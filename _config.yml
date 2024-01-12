@@ -67,8 +67,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   links: # An array of links to social media profiles
-    - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/dormorag/"
 
 
@@ -117,8 +117,8 @@ author:
   youtube          :
   wikipedia        :
   links:
-    - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/dormorag/"
 
 

@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dor Morag"
+  name             : "Dor Morag1"
   avatar           : "Dor Morag ABC_9114_2.jpg"
   bio              : "PhD Candidate in Economics, University of Pittsburgh<br><br>Data Science Fellow BBO, Pittsburgh Pirates<br><br>NBA Future Analytics Stars"
   location         : "Pittsburgh, PA"
@@ -90,7 +90,7 @@ author:
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : dormorag@gmail.com
   github           : "dormorag"
-  LinkedIn         : "dormorag"
+  linkedin         : "dormorag"
 
 
 # Reading Files

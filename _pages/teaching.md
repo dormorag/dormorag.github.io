@@ -7,7 +7,7 @@ author_profile: true
 
 ### University of Pittsburgh
 - **Visiting Lecturer**: Econometrics with Python
-- **Teaching Assistant**: Advanced Microeconomic Theory (core PhD class)
+- **Teaching Assistant**: PhD Microeconomic Theory
 - **Teaching Assistant**: Applied Econometrics
 - **Teaching Assistant**: Intro to Microeconomics
 

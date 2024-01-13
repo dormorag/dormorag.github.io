@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
-
 ### University of Pittsburgh
 - **Visiting Lecturer**: Econometrics with Python
 - **Teaching Assistant**: Advanced Microeconomic Theory (core PhD class)

@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
+# Teaching
 
 ### University of Pittsburgh
 - Visiting Lecturer: _Econometrics with Python_

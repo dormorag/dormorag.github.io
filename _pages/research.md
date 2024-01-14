@@ -29,3 +29,6 @@ Job Ad Features and Search Behavior: Views and Applications (With David Huffman 
 
 <a href="https://github.com/dormorag/lucky_goals/blob/main/StatsBomb.ipynb">Outcome Bias in Performance Evaluation: Evidence from Spatial Discontinuity Around the Goal Frame </a> <br>
 <ins>Talks</ins>: University of Pittsburgh.
+
+## Journal Referee 
+PLOS One, 2022

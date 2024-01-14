@@ -20,8 +20,6 @@ redirect_from:
 * Future Analytics Starts Program (NBA, 2024-present)
 
 * Baseball Ops Data Science Research Fellow (Pittsburgh Pirates, 2023-present)
-
-* Journal Referee (PLOS ONE, 2022)
   
 * Data Scientist (Arrive Logistics, 2021)
   

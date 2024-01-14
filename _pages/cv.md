@@ -8,7 +8,7 @@ redirect_from:
 ---
 # CV
 
-Education
+## Education
 ======
 * BA in Economics and Psychology, Ben-Gurion University, 2017
   * Summa cum laude; MA Honors Programs
@@ -17,7 +17,7 @@ Education
 * PhD in Economics, The University of Pittsburgh, 2024 (expected)
   * Andrew Mellon Predoctoral Fellowship for Students of Exceptional Promise
 
-Work experience
+## Work experience
 ======
 * Future Analytics Starts Program (NBA, 2024-present)
 

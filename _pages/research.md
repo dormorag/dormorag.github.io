@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
+# Research
 
 ## Publications
 <a href="https://ssrn.com/abstract=3919471">Self-Told Narratives and Valuations</a> (with George Loewenstein) <br>

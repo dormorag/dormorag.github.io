@@ -30,5 +30,4 @@ redirect_from:
   * Decision Making and Economic Psychology Lab (Ben-Gurion University, 2016)
 
 * First Sergeant Major in the Israeli Navy Submarines (2010-2014)
-  * Submariners’ Excellence Award
 

@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ### University of Pittsburgh
-- **Visiting Lecturer**: Econometrics with Python
-- **Teaching Assistant**: PhD Microeconomic Theory
-- **Teaching Assistant**: Applied Econometrics
-- **Teaching Assistant**: Intro to Microeconomics
+- Visiting Lecturer: _Econometrics with Python_
+- Teaching Assistant: _PhD Microeconomic Theory_
+- Teaching Assistant: _Applied Econometrics_
+- Teaching Assistant: _Intro to Microeconomics_
 
 ### The Hebrew University of Jerusalem
-- **Head Teaching Assistant**: Advanced Microeconomics
-- **Teaching Assistant**: Calculus
+- Head Teaching Assistant: _Advanced Microeconomics_
+- Teaching Assistant: _Calculus_
 
 ### Ben-Gurion University
-- **Teaching Assistant**: Advanced Microeconomics
+- Teaching Assistant: _Advanced Microeconomics_

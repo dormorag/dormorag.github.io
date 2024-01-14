@@ -24,10 +24,9 @@ redirect_from:
 * _Data Scientist_, Arrive Logistics, 2021
   
 * _Research Assistant_, 2016-present
-  * Prof. David Huffman (The University of Pittsburgh, 2023-present)
-  * Prof. Moses Shayo (The Hebrew University of Jerusalem, 2018)
-  * Prof. Dan Ariely (2016) 
-  * Decision Making and Economic Psychology Lab (Ben-Gurion University, 2016)
+  * _Prof. David Huffman_, The University of Pittsburgh, 2023-present
+  * _Prof. Moses Shayo_, The Hebrew University of Jerusalem, 2018-2019
+  * _Prof. Dan Ariely_, 2016 
+  * _Decision Making and Economic Psychology Lab_, Ben-Gurion University, 2016
 
 * _First Sergeant Major_, Israeli Navy Submarines, 2010-2014
-

@@ -9,7 +9,6 @@ redirect_from:
 # CV
 
 ## Education
-======
 * BA in Economics and Psychology, Ben-Gurion University, 2017
   * Summa cum laude; MA Honors Programs
 * MA in Economics, The Hebrew University of Jerusalem, 2019
@@ -18,7 +17,6 @@ redirect_from:
   * Andrew Mellon Predoctoral Fellowship for Students of Exceptional Promise
 
 ## Work experience
-======
 * Future Analytics Starts Program (NBA, 2024-present)
 
 * Baseball Ops Data Science Research Fellow (Pittsburgh Pirates, 2023-present)

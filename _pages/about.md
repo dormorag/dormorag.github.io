@@ -7,11 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Dor Morag
 
-- PhD candidate at the University of Pittsburgh majoring in Behavioral and Labor Economics
-- Data Science Fellow at the Pittsburgh Pirates' Baseball Ops
-- NBA Future Analytics Stars
+# Dor Morag
 
 I use causal analysis in conjecture with machine learning to study decision-making and labor markets. Specifically, my academic research projects explore narratives' influence on valuations, job ad features' effects on viewers and applicants pool, and determinants of performance evaluation. Much of my work involves collaborations with industry, in which I develop data-driven solutions for business and sports-related problems.
 

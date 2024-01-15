@@ -16,4 +16,4 @@ I use causal analysis in conjecture with machine learning to study decision-maki
 
 Much of my work involves collaborations with industry, in which I answer business problems with data-driven research. I'm particularly interested in sports-related questions and have played basketball and volleyball professionally. 
 
-<img src="images/IMG_20200716_135538.jpg" alt="Jenny Lake, Grand Teton" style="width: 800px; height: 500px;border: 5px solid white; border-radius: 50%;"/>
+<img src="images/IMG_20200716_135538.jpg" alt="Jenny Lake, Grand Teton" style="width: 600px; height: 400px;border: 5px solid white; border-radius: 10px 100px / 120px;"/>

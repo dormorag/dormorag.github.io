@@ -84,8 +84,8 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : dormorag@gmail.com
-  github           : "dormorag"
-  linkedin         : # "dormorag"
+  github           : # "dormorag"
+  linkedin         : "dormorag"
 
 
 # Reading Files

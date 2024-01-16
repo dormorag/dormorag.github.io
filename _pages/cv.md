@@ -16,7 +16,7 @@ redirect_from:
 * _PhD in Economics_, The University of Pittsburgh, 2024 (expected)
   * Andrew Mellon Predoctoral Fellowship for Students of Exceptional Promise
 
-## Work experience
+## Work Experience
 * _Future Analytics Starts Program_, NBA, 2024-present
 
 * _Baseball Ops Data Science Research Fellow_, Pittsburgh Pirates, 2023-present

@@ -36,6 +36,9 @@ _Draft available upon request_ <br>
 </details>
 
 ## Work in Progress
+Memory and Beliefs about Ability (Job Market Paper) <br>
+<ins>Talks</ins>: University of Pittsburgh. <br>
+
 Job Ad Features and Search Behavior: Views and Applications (With David Huffman and Alistair Wilson) <br>
 <ins>Talks</ins>: University of Pittsburgh. <br>
 <ins>Media Coverage</ins>: <a href="https://www.phenom.com/blog/job-application-gender-gap-revealed-univ-pitt-research-study">Phenom People</a>, <a href="https://www.worklife.news/technology/ai-gender/">WorkLife</a>.

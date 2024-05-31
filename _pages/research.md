@@ -47,4 +47,5 @@ Job Ad Features and Search Behavior: Views and Applications (With David Huffman 
 <ins>Talks</ins>: University of Pittsburgh.
 
 ## Journal Referee 
+Labour Economics, 2024
 PLOS One, 2022

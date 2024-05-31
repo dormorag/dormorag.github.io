@@ -7,6 +7,7 @@ author_profile: true
 # Teaching
 
 ### University of Pittsburgh
+- Lecturer: _Sports Economics_
 - Visiting Lecturer: _Econometrics with Python_
 - Teaching Assistant: _PhD Microeconomic Theory_
 - Teaching Assistant: _Applied Econometrics_

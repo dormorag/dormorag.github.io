@@ -9,12 +9,13 @@ redirect_from:
 # CV
 
 ## Education
-* _BA in Economics and Psychology_, Ben-Gurion University, 2017
-  * Summa cum laude; MA Honors Programs
-* _MA in Economics_, The Hebrew University of Jerusalem, 2019
-  * Bogen's International Honors Program; Shiffer’s Excellence Award
 * _PhD in Economics_, The University of Pittsburgh, 2024 (expected)
   * Andrew Mellon Predoctoral Fellowship for Students of Exceptional Promise
+* _MA in Economics_, The Hebrew University of Jerusalem, 2019
+  * Bogen's International Honors Program; Shiffer’s Excellence Award
+* _BA in Economics and Psychology_, Ben-Gurion University, 2017
+  * Summa cum laude; MA Honors Programs
+
 
 ## Work Experience
 * _Data Science and Strategy Researcher_, Baseball Ops R&D, Pittsburgh Pirates, 2023-present

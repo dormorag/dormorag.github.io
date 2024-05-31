@@ -17,9 +17,9 @@ redirect_from:
   * Andrew Mellon Predoctoral Fellowship for Students of Exceptional Promise
 
 ## Work Experience
-* _Future Analytics Stars Program_, NBA, 2024-present
-
-* _Baseball Ops Data Science Research Fellow_, Pittsburgh Pirates, 2023-present
+* _Data Science and Strategy Researcher_, Baseball Ops R&D, Pittsburgh Pirates, 2023-present
+  
+* _Future Analytics Stars_, NBA, 2024
   
 * _Data Scientist_, Arrive Logistics, 2021
   

@@ -29,5 +29,3 @@ redirect_from:
   * _Prof. Moses Shayo_, The Hebrew University of Jerusalem, 2018-2019
   * _Prof. Dan Ariely_, 2016 
   * _Decision Making and Economic Psychology Lab_, Ben-Gurion University, 2016
-
-* _First Sergeant Major_, Israeli Navy Submarines, 2010-2014

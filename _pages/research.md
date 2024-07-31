@@ -25,6 +25,7 @@ _SSRN Top Recent Papers_ <br>
 ## Working Papers
 
 Labor Market Shocks and Intra-Household Bargaining Power: A Machine Learning Application to Scanner Data (with Rania Gihleb and Osea Giuntella) <br>
+<strong>Revision Requested at The Economic Journal</strong> <br>
 _Draft available upon request_ <br>
 <ins>Talks</ins>: Society of the Household Economics 2022 (UCL), University of Venice, University of Madrid, Carnegie Mellon University, and the University of Pittsburgh.<br>
 

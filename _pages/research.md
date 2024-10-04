@@ -7,7 +7,7 @@ author_profile: true
 # Research
 
 ## Publications
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.01076">Self-Told Narratives and Valuations</a> (with George Loewenstein) <br>
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.01076">Narratives and Valuations</a> (with George Loewenstein) <br>
 <strong>Forthcoming at Management Science</strong> <br>
 _SSRN Top Recent Papers_ <br>
 <ins>Talks</ins>: ESA North America 2021 Conference, Data Colada Seminar Series, University of Amsterdam, Carnegie Mellon University, and the University of Pittsburgh.<br>

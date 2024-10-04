@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dor Morag"
+title                    : "Dor Morag, PhD"
 title_separator          : ""
-name                     : &name "Dor Morag"
-description              : &description "PhD Candidate"
+name                     : &name "Dor Morag, PhD"
+description              : &description "Economics PhD and Senior Data Scientist"
 url                      : https://dormorag.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dormorag/dormorag.github.io"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Dor Morag"
   avatar           : "Dor Morag ABC_9114_2.jpg"
-  bio              : "PhD Candidate in Economics, University of Pittsburgh<br><br>Data Science and Strategy Researcher, BBO R&D, Pittsburgh Pirates<br><br>Future Analytics Stars, NBA"
+  bio              : "Senior Data Scientist, Charlotte Hornets<br><br>PhD in Economics, University of Pittsburgh"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

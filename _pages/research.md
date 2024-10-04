@@ -24,6 +24,16 @@ _SSRN Top Recent Papers_ <br>
 
 ## Working Papers
 
+
+<a href="https://drive.google.com/file/d/1U_HfapP-OULuIOGSg9h64d74sS_M63OG/view?usp=sharing">Situational Inference of Ability and Occupation Choice</a> (Job Market Paper) <br>
+<ins>Talks</ins>: University of Pittsburgh. <be>
+<details>
+  <summary>Abstract</summary>
+  <blockquote>
+    This paper investigates how individuals infer their abilities from past experiences and subsequently make occupation choices. Through a randomized experiment involving easy or hard real-effort practice tasks, situational factors (task averages) were manipulated, and future performance predictions along with task preferences were elicited. The results reveal that participants, even in full-information settings, often attributed the influence of external factors to personal abilities, leading to distorted performance expectations and inefficient occupational choices. Forty percent of the average treatment effect of practice difficulty on occupational choice is explained by performance beliefs, while the residual effect is attributable to perceived intrinsic enjoyment. Although the hard practice treatment led to significantly lower expected performance and enjoyment, it also led to improved test performance. Finally, implications for poverty traps, skill assessment programs, and practice design are discussed.
+  </blockquote>
+</details>
+
 Labor Market Shocks and Intra-Household Bargaining Power: A Machine Learning Application to Scanner Data (with Rania Gihleb and Osea Giuntella) <br>
 <strong>Revision Requested at The Economic Journal</strong> <br>
 _Draft available upon request_ <br>
@@ -33,15 +43,6 @@ _Draft available upon request_ <br>
   <summary>Abstract</summary>
   <blockquote>
     Utilizing machine learning and product-level data describing single men's and women's consumption patterns, we create an index that quantifies the ``gendered'' nature of consumer goods. Our index reveals substantial gender disparities in spending behavior across many products and consumption categories, which we validate through a series of sensitivity analyses. We use the index to investigate the impact of gender-specific shocks to spouses' economic stature on the budget allocation within heterosexual married households toward products predominantly favored by either gender. Specifically, our findings indicate that the adoption of robots, which heightened women's economic standing relative to men, led to a noticeable shift in consumption patterns, favoring products more frequently bought by single women. Conversely, the expansion of fracking, which bolstered the demand for young, less-skilled men, resulted in an increased consumption of products predominantly preferred by men. We then extend our analysis to children's products. While neither of the shocks affected the expenditure allocated to children's products, positive shocks to the economic stature of women led to an increase in expenditure on products prevalently bought for daughters (rather than sons).
-  </blockquote>
-</details>
-
-<a href="https://drive.google.com/file/d/1U_HfapP-OULuIOGSg9h64d74sS_M63OG/view?usp=sharing">Situational Inference of Ability and Occupation Choice</a> (Job Market Paper) <br>
-<ins>Talks</ins>: University of Pittsburgh. <be>
-<details>
-  <summary>Abstract</summary>
-  <blockquote>
-    This paper investigates how individuals infer their abilities from past experiences and subsequently make occupation choices. Through a randomized experiment involving easy or hard real-effort practice tasks, situational factors (task averages) were manipulated, and future performance predictions along with task preferences were elicited. The results reveal that participants, even in full-information settings, often attributed the influence of external factors to personal abilities, leading to distorted performance expectations and inefficient occupational choices. Forty percent of the average treatment effect of practice difficulty on occupational choice is explained by performance beliefs, while the residual effect is attributable to perceived intrinsic enjoyment. Although the hard practice treatment led to significantly lower expected performance and enjoyment, it also led to improved test performance. Finally, implications for poverty traps, skill assessment programs, and practice design are discussed.
   </blockquote>
 </details>
 

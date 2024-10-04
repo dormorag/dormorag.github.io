@@ -7,8 +7,8 @@ author_profile: true
 # Research
 
 ## Publications
-<a href="https://ssrn.com/abstract=3919471">Self-Told Narratives and Valuations</a> (with George Loewenstein) <br>
-<strong>Accepted at Management Science</strong> <br>
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.01076">Self-Told Narratives and Valuations</a> (with George Loewenstein) <br>
+<strong>Forthcoming at Management Science</strong> <br>
 _SSRN Top Recent Papers_ <br>
 <ins>Talks</ins>: ESA North America 2021 Conference, Data Colada Seminar Series, University of Amsterdam, Carnegie Mellon University, and the University of Pittsburgh.<br>
 
@@ -36,9 +36,16 @@ _Draft available upon request_ <br>
   </blockquote>
 </details>
 
+<a href="https://drive.google.com/file/d/1U_HfapP-OULuIOGSg9h64d74sS_M63OG/view?usp=sharing">Situational Inference of Ability and Occupation Choice</a> (Job Market Paper) <br>
+<ins>Talks</ins>: University of Pittsburgh. <be>
+<details>
+  <summary>Abstract</summary>
+  <blockquote>
+    This paper investigates how individuals infer their abilities from past experiences and subsequently make occupation choices. Through a randomized experiment involving easy or hard real-effort practice tasks, situational factors (task averages) were manipulated, and future performance predictions along with task preferences were elicited. The results reveal that participants, even in full-information settings, often attributed the influence of external factors to personal abilities, leading to distorted performance expectations and inefficient occupational choices. Forty percent of the average treatment effect of practice difficulty on occupational choice is explained by performance beliefs, while the residual effect is attributable to perceived intrinsic enjoyment. Although the hard practice treatment led to significantly lower expected performance and enjoyment, it also led to improved test performance. Finally, implications for poverty traps, skill assessment programs, and practice design are discussed.
+  </blockquote>
+</details>
+
 ## Work in Progress
-Memory and Ability Expectations (Job Market Paper) <br>
-<ins>Talks</ins>: University of Pittsburgh. <br>
 
 Job Ad Features and Search Behavior: Views and Applications (With David Huffman and Alistair Wilson) <br>
 <ins>Talks</ins>: University of Pittsburgh. <br>
